@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="490f4ee9-54e0-46b4-88a5-5b56789aee77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instanceArray.js" afterPath="$PROJECT_DIR$/instanceArray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sayName.js" afterPath="$PROJECT_DIR$/sayName.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ConstructorConductor.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,14 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="instanceArray.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/instanceArray.js">
+      <file leaf-file-name="sayName.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sayName.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6540881">
-              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.6289308">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -44,6 +43,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/instanceArray.js" />
+        <option value="$PROJECT_DIR$/sayName.js" />
       </list>
     </option>
   </component>
@@ -110,8 +110,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="Node.js.instanceArray.js">
+  <component name="RunManager" selected="Node.js.sayName.js">
     <configuration default="false" name="instanceArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="instanceArray.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="sayName.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="sayName.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -146,12 +149,14 @@
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Node.js.instanceArray.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.sayName.js" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.instanceArray.js" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.sayName.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.instanceArray.js" />
       </list>
     </recent_temporary>
   </component>
@@ -198,11 +203,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/instanceArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6540881">
+        <state vertical-scroll-proportion="0.0">
           <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sayName.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6289308">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>

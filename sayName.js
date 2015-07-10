@@ -2,12 +2,23 @@
 
   //code here
 
-
+var Person = function(name, age) {
+    this.name = name;
+    this.age = age;
+}
 //Now create three instances of Person with data you make up
 
   //code here
-
+var me = new Person('hunter', 20);
+var sierra = new Person('sierra', 19);
+var daddio = new Person('mark', 51);
 
 //Now add a sayName method on your Person class that will alert the name of whatever Person instance called it.
 
   //code here
+
+Person.prototype.sayName = function() {
+    console.log(this.name);
+}
+
+sierra.sayName();
